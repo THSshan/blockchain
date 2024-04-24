@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "karan",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "loop",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"shanBlockChain/contract.sol": "shan"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"shanBlockChain/contract.sol": {
+			"keccak256": "0x2f847463af9a8127ce2567d549de9996bac0987538f6c49f279b5dc1bb19d475",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b65bdeb9884e224d5dbb2b8912b29dc12dddffa91e640554df6f64f69158c3a9",
+				"dweb:/ipfs/Qmea1DG51Dq7StV44h8s8R1NRQZRdzwfP5jwA8DapnuREo"
+			]
+		}
+	},
+	"version": 1
+}
